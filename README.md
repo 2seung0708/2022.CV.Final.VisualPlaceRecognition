@@ -17,8 +17,7 @@
 ---
 ## Idea 2 
 
-![image](https://user-images.githubusercontent.com/70506563/174408282-0e7a12b3-81a3-43f6-b54b-4c2a140d3d5f.png)
-
+![image](https://user-images.githubusercontent.com/70506563/174408534-6d004a30-98fb-477c-a341-850edb6a29d0.png)
 
 ---
 ## Idea 3
