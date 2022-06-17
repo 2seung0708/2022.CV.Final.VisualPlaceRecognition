@@ -4,7 +4,7 @@
 - 논문: [NetVLAD](https://arxiv.org/abs/1511.07247)
 - Eval.AI : [Visual Place Recognition Challenge](http://203.250.148.128:3088/web/challenges/challenge-page/49/overview)
 - 베이스라인 코드: https://github.com/socome/NetVLAD-in-Colab
-- 해설 영상
+- 설명 영상: 
 
 
 
