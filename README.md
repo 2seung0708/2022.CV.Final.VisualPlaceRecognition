@@ -12,15 +12,3 @@
 ## Idea 1
 
 ![image](https://user-images.githubusercontent.com/70506563/174408256-b3b351d8-3d89-417a-be18-4563a3ae9a4d.png)
-
-
----
-## Idea 2 
-
-![image](https://user-images.githubusercontent.com/70506563/174408534-6d004a30-98fb-477c-a341-850edb6a29d0.png)
-
----
-## Idea 3
-
-
-
